@@ -34,8 +34,8 @@ Para executar este projeto, você precisará ter o Flutter instalado em sua máq
 1. Clone o repositório:
 
    ```bash
-   git clone https://seu-repositorio.com/seuprojeto.git
-   cd seuprojeto
+   git clone https://github.com/Lemos1347/inteli-modulo-10-ponderada-2.git
+   cd inteli-modulo-10-ponderada-2
    ```
 
 2. Instale as dependências:
