@@ -1,18 +1,5 @@
 version: "3"
 services:
-  api-sync:
-    build:
-      context: ./backend-sync
-    restart: always
-    expose:
-      - "3000"
-    env_file:
-      - ./.env
-    ports:
-      - 3000:3000
-    depends_on:
-      db:
-        condition: service_healthy
   api-async:
     build:
       context: ./backend-async
