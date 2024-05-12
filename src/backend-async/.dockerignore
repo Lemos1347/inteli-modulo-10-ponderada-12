@@ -1,0 +1,5 @@
+.venv
+.env
+.env.template
+README.md
+./static/Insomnia_collection.json
